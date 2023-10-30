@@ -11,7 +11,7 @@ I am currently doing an internship at JG Solutions providing Frontend solutions 
 During my previous role at Marmat and Asociacion Colitas, I had the opportunity to Develop a web application as a full stack going through all the processes of the software development cycle. This experience has honed my ability to deliver high-quality code and meet tight deadlines.
 
 
-## Tecnologies ⌨️
+## Technologies ⌨️
 
 #### FrontEnd
 <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Texto alternativo" width="55" height="55"> </a>
@@ -28,7 +28,7 @@ During my previous role at Marmat and Asociacion Colitas, I had the opportunity 
 
 ----
 
-#### Database
+#### Databases
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ09OTzBzQZZUJpf7wFKOoP9dkdM7wgdG9YA" alt="Texto alternativo" width="85" height="55"> </a>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="55" height="55">
 <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" width="55" height="55">
